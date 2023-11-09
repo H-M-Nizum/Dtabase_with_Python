@@ -1,0 +1,19 @@
+create database GussingNumber;
+
+use GussingNumber;
+
+create table Players(
+	playerid INT primary key auto_increment,
+    name varchar(50) not null,
+    passward varchar(5) not null
+);
+
+create table Record(
+	record_no int primary key auto_increment,
+    playerid int,
+    lower_bound int not null,
+    upper_bound int not null,
+    try_count int,
+    
+    constraint playerid_fk foreign key(playerid) references Players(playerid) on delete cascade
+);

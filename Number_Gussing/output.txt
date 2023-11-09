@@ -1,0 +1,189 @@
+Welcome to Number guessing game 🧠 
+1. Registration 
+2. Login 
+3. Exist
+
+Enter your choice : 1
+
+Welcome for Registration
+
+Enter your name : Kobir
+Enter your passward: 1003
+
+Successfully Registration complete ✅
+
+
+Welcome to Number guessing game 🧠
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 2
+
+Welcome to Number Guessing game
+
+Enter your name : Kobir
+Enter your passward: 1003
+
+Successfully login your number_gussing account
+
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 1
+
+Enter the range of your guessing numeber for play game
+
+Enter lower bound: 1
+Enter upper boud: 10
+
+--------------------> Start game <--------------------
+
+Enter your guessing number : 5
+
+You guessed to high number👆 Try again
+
+Enter your guessing number : 3
+
+You guessed too small number🤏 Try again
+
+Enter your guessing number : 2
+
+You guessed too small number🤏 Try again
+
+Enter your guessing number : 4
+
+🏆Congratulations you win the game in 4 try🏆
+
+
+Successfully complete Game ✅
+
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 1
+
+Enter the range of your guessing numeber for play game
+
+Enter lower bound: 1
+Enter upper boud: 20
+
+--------------------> Start game <--------------------
+
+Enter your guessing number : 14
+
+You guessed to high number👆 Try again
+
+Enter your guessing number : 11
+
+You guessed too small number🤏 Try again
+
+Enter your guessing number : 13
+
+🏆Congratulations you win the game in 3 try🏆
+
+
+Successfully complete Game ✅
+
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 1
+
+Enter the range of your guessing numeber for play game
+
+Enter lower bound: 1   
+Enter upper boud: 30
+
+--------------------> Start game <--------------------
+
+Enter your guessing number : 15
+
+You guessed too small number🤏 Try again
+
+Enter your guessing number : 23
+
+You guessed too small number🤏 Try again
+
+Enter your guessing number : 26
+
+🏆Congratulations you win the game in 3 try🏆
+
+
+Successfully complete Game ✅
+
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 2
+
+My Maximum score is_______________
+
+
+lower_lound || upper_bound || try_count
+
+1               30              3
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 3
+
+My All playing statistics is_______________
+
+
+lower_lound || upper_bound || try_count
+
+1               10              4
+1               20              3
+1               30              3
+Welcome to Number guessing game 🧠
+1. Start game
+2. Max Score
+3. All game record
+4. Exist
+
+Enter your choice: 4
+
+Thanks for playing game 🔲
+
+
+Welcome to Number guessing game 🧠
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 2
+
+Welcome to Number Guessing game
+
+Enter your name : Kobir
+Enter your passward: 103
+
+You need first Registration
+
+
+Welcome to Number guessing game 🧠
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 3
+
+Thanks for Visiting game 🔲
+
+
