@@ -1,0 +1,366 @@
+
+Welcome to our institute 🏫
+
+1. Student
+2. Admin
+3. Exist
+
+Enter your choice : 1
+
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 1
+Enter your first name : sakib
+Enter your last name : khan
+Enter your age : 34
+Admition successfully complete ✅
+
+Your student id is : 1014
+
+
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 2
+Enter your student id : 1014
+
+WELCOME OUR INSTITUTE 🏫
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 3
+Enter course id, which you want to enroll : 1005
+
+Send the amount of 3000 TK
+
+Send : 3000
+
+Successfully send money ✅
+
+
+Successfully you enroll a new course ✅
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 1
+
+course_id || course_name
+
+1005            C++
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 2
+
+Now aviable course are __________
+
+
+course_id || course_name || course_price
+
+1004            Python          5000
+1005            C++             3000
+1006            Algorithom              6000
+1007            Django          4500
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 3
+Enter course id, which you want to enroll : 1004
+
+Send the amount of 5000 TK 
+
+Send : 5000
+
+Successfully send money ✅
+
+
+Successfully you enroll a new course ✅
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 3
+Enter course id, which you want to enroll : 1004
+
+Send the amount of 5000 TK
+
+Send : 5000
+
+Successfully send money ✅
+
+
+Successfully you enroll a new course ✅
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 1
+
+course_id || course_name
+
+1005            C++
+1004            Python
+1004            Python
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 4
+Enter a course id , tahat want to drop : 1004
+
+Successfully you Drop a course ✅
+
+1. My course
+2. Show all course
+3. Start new course
+4. Drop a course
+5. Exist
+
+Enter your choice : 5
+
+1. Registration
+2. Login
+3. Exist
+
+Enter your choice : 3
+
+Thanks for Visiting Application 🔲
+
+
+Welcome to our institute 🏫
+
+1. Student
+2. Admin
+3. Exist
+
+Enter your choice : 2
+
+WELCOME OUR INSTITUTE 🏫
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 1
+Enter new course name : Java
+Enter course price: 2000
+
+Successfully Java course added ✅
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 2
+
+Now aviable course are __________
+
+
+course_id || course_name || course_price
+
+1004            Python          5000
+1005            C++             3000
+1006            Algorithom              6000
+1007            Django          4500
+1008            Java            2000
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 3
+
+student_id || First_name || Last_name ||   Age
+
+1002            Ridoy           Khan            27
+1004            Shezan          bara            24
+1005            Rakib           pathan          23
+1007            Kala            can             26
+1009            dola            can             23
+1011            Alga            can             23
+1012            batas           can             24
+1013            falka           can             23
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 4
+
+student_id || First_name || Last_name ||   Age
+
+1001            Atique          bulbul          26
+1002            Ridoy           Khan            27
+1003            Kobir           Khan            25
+1004            Shezan          bara            24
+1005            Rakib           pathan          23
+1007            Kala            can             26
+1009            dola            can             23
+1011            Alga            can             23
+1012            batas           can             24
+1013            falka           can             23
+1014            sakib           khan            34
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 5
+Enter student id, that you want to drop : 1013
+
+Successfully you Drop a student ✅
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 4
+
+student_id || First_name || Last_name ||   Age
+
+1001            Atique          bulbul          26
+1002            Ridoy           Khan            27
+1003            Kobir           Khan            25
+1004            Shezan          bara            24
+1005            Rakib           pathan          23
+1007            Kala            can             26
+1009            dola            can             23
+1011            Alga            can             23
+1012            batas           can             24
+1014            sakib           khan            34
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 6
+
+course_id || course_name || course_price
+
+1005            C++             3000
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 7
+
+course_id || course_name || course_price
+
+1004            Python          5000
+1006            Algorithom              6000
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 8
+
+course_id || course_name || course_price
+
+1007            Django          4500
+1008            Java            2000
+
+
+1. Add course
+2. Show all course
+3. Show registred but not enrolled
+4. Show all student
+5. Drop student
+6. Maximum enroll course
+7. Minimum enroll corse
+8. NOT enroll course anyone
+9. Exist
+Enter your choice : 9
+
+Welcome to our institute 🏫
+
+1. Student
+2. Admin
+3. Exist
+
+Enter your choice : 3
+
+Thanks for Visiting Application 🔲
