@@ -13,7 +13,8 @@ create table student(
 
 create table course(
 	course_id int primary key auto_increment,
-    course_name varchar(50) not null
+    course_name varchar(50) not null,
+    course_price int
 ) auto_increment = 1001;
 
 
