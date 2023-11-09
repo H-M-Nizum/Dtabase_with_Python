@@ -1,0 +1,32 @@
+                                    ENTITY
+    
+    Student                         Enrollment                      Course
+
+PK	student_id          	      PK course_id                     PK enrollment_id
+    first_name                       course_name                   FK who_enroll
+    last_name                        course_price                  FK which_course_id
+    age   
+
+
+
+                                        INSTITUTE
+
+        Student                                                             Admin
+            a. Registration                                                     1. Add course
+            b. Login                                                            2. Show all course
+                1. My course                                                    3. Show registred but not enrolled
+                2. Show all course                                              4. Show all student
+                3. Start new course                                             5. Drop student
+                4. Drop a course                                                6. Maximum enroll course
+                5. Exist                                                        7. Minimum enroll corse
+            c. Exist                                                            8. NOT enroll course anyone
+                                                                                9. Exist
+	
+     
+
+
+
+
+
+
+
