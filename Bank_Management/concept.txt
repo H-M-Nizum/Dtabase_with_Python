@@ -1,0 +1,12 @@
+
+
+BANK 
+    1. Create Account
+    2. Login
+        1. Check balance
+        2. Send money
+        3. Transaction History
+        4. Deposit
+        5. Withdraw
+        6. Exist
+    3. Exist
