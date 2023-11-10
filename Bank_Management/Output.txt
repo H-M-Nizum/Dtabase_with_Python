@@ -1,0 +1,160 @@
+Welcome to ABC Bank 🏦
+
+
+1. Create Account
+2. Login
+3. Exist
+
+Enter your choice : 1
+Enter your account number : 2020
+Enter your passward : 3030
+Enter your full name : Mas    
+Enter your phone number : 01234567890
+Enter your age : 38
+
+Successfully create your bank account ✅
+
+
+Welcome to ABC Bank 🏦
+
+
+1. Create Account
+2. Login
+3. Exist
+
+Enter your choice : 2
+Enter your account number : 2020
+Enter your account passward : 3030
+
+Successfully login your account ✅
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 1
+
+Your current balance is : 0
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 4
+Enter your amount how much you want to deposit : 2000
+
+Successfully Transfer your balance ✅
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 1
+
+Your current balance is : 2000
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 5
+Enter your amount how much you want to deposit : 300
+
+Successfully Transfer your balance ✅
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 1
+
+Your current balance is : 1700
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 2
+Enter reciver account number : 1010
+Enert your amount how much you want to send : 400
+
+Successfully Transfer your balance ✅
+
+
+Successfully Transfer your balance ✅
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 1
+
+Your current balance is : 1300
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 3
+
+Transction_id || User_id ||  Account_number ||  Transfer_Date  ||  Amount
+
+113             1006            2020            2023-11-11              2000
+114             1006            2020            2023-11-11              -300
+116             1006            2020            2023-11-11              -400
+
+
+1. Check balance
+2. Send money
+3. Transaction History
+4. Deposit
+5. Withdraw
+6. Exist
+
+Enter your choice : 6
+
+Thanks for visiting your account
+
+
+Welcome to ABC Bank 🏦
+
+
+1. Create Account
+2. Login
+3. Exist
+
+Enter your choice : 3
+
+Thanks for visiting ABC Bank 🏦
